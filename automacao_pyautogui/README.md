@@ -1,7 +1,7 @@
 # RPA Job Posting Automation
 
 Automação em Python para preenchimento automático de anúncios de vagas no site  
-https://rpaexercise.aisingapore.org/.
+https://rpaexercise.aisingapore.org/. O site utilizado é uma plataforma criada especificamente para prática de RPA, ou seja, não se trata de um sistema real.
 
 Este projeto foi desenvolvido como exercício prático de **Robotic Process Automation (RPA)** utilizando Python e a biblioteca **PyAutoGUI**, automatizando a criação de anúncios de emprego a partir de dados armazenados em um arquivo CSV.
 
